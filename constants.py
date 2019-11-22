@@ -1,9 +1,9 @@
-from math import radians
+
+# Define Given Constants
 
 c = 2       # Chord Length [m]
 
 alpha = 12      # AOA [degrees]
-alpha = radians(alpha)      # AOA [rad]
 
 V_inf = 68     # Freestream Velocity [m/s]
 
